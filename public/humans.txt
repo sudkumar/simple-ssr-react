@@ -1,0 +1,17 @@
+/* TEAM */
+		Chef:Sudhir Mitharwal
+		Contact: luckysud4 [at] gmail [dot] com
+		Twitter: @sudhirmith
+		From:Jaipur, Rajasthan, India
+
+/* THANKS */
+
+/* SITE */
+		Last update:2018/11/10
+    Language: English
+		Doctype:HTML5
+		IDE: Vim
+
+/* TECHNOLOGY COLOPHON */
+		CSS3, HTML5, JavaScript, React, Typescript
+

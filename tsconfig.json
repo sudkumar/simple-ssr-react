@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "esModuleInterop": true,
+    "jsx": "react",
+    "lib": ["es6", "dom"],
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "outDir": "dist/ts",
+    "paths": {
+      "*": ["packages/*"]
+    },
+    "removeComments": true,
+    "strict": true,
+    "target": "esnext",
+    "noImplicitReturns": true,
+    "noImplicitThis": true,
+    "noImplicitAny": true,
+    "strictNullChecks": true,
+    "moduleResolution": "node"
+  },
+  "exclude": ["node_modules", "build", "dist"]
+}
